@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Trabalho3</string>
+    <string name="title_activity_cadastrar_tarefa">cadastrar_tarefa</string>
+    <string name="title_activity_tags">tags</string>
+    <string name="title_activity_lista_tarefa">lista_tarefa</string>
+</resources>
